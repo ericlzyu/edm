@@ -1,0 +1,75 @@
+html{font-size:62.5%}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td,hr{margin:0;padding:0}
+body{font:12px/1.5 tahoma,arial,\5b8b\4f53}
+h1,h2,h3,h4,h5,h6{font-size:100%}
+table{border-collapse:collapse;border-spacing:0}
+li{list-style:none}
+img,iframe{border:0}
+a{text-decoration:none;background:transparent}
+label{cursor:pointer}
+hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}
+sup{vertical-align:text-top}
+sub{vertical-align:text-bottom}
+input,textarea,select,button{font-family:inherit;font-size:100%}
+input[type="button"],input[type="submit"],select,button{cursor:pointer}
+button[disabled],html input[disabled]{cursor:default}
+input[type="text"]::-ms-clear,input[type="password"]::-ms-clear{display:none}
+textarea{overflow-y:auto;vertical-align:top}
+article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}
+audio,canvas,video{display:inline-block}
+audio:not([controls]){display:none;height:0}
+[hidden],template{display:none}
+.guide-main{width:960px;margin:20px auto 0;overflow:hidden;zoom:1;font-family:"\5FAE\8F6F\96C5\9ED1";position:relative}
+.attention{background-color:#EDEDED;padding:0 5px}
+ol,ol li{list-style-type:decimal}
+.guide-nav{position:absolute;left:0;top:0}
+.guide-nav-fix{position:fixed;left:50%;top:20px;margin-left:-480px}
+.guide-nav a{display:block;color:#333;line-height:26px}
+.guide-nav a:hover,.guide-nav .nav-select{color:#008DDE}
+.guide-nav .nav-item .nav-title{line-height:30px}
+.guide-nav .nav-links{padding-left:21px;display:none}
+.content{overflow:hidden;zoom:1;padding-left:22px;margin-left:182px;font-size:14px;border-left:2px solid #EBEBEB}
+.content p{color:#333;line-height:26px}
+.content .section{margin-bottom:20px}
+.content .sec-title{font-size:20px;padding:10px 0}
+.content .sec-title .sec-num{display:inline-block;width:28px;height:25px;text-align:center;color:#fff;line-height:25px;background-color:#20BCF6;overflow:hidden;vertical-align:top;margin-top:3px;margin-right:8px}
+.content .sec-title .sec-subinfo{font-size:14px;font-weight:normal;margin-left:8px}
+.img-holder{position:relative}
+.img-holder p{position:absolute;top:120px;width:220px;padding-left:5px}
+.img-holder .p1{left:0}
+.img-holder .p2{left:263px}
+.img-holder .p3{left:530px}
+.img-style1{border-bottom:1px solid #ddd;padding-bottom:20px;margin-bottom:20px}
+.img-style1 .img-style-title{display:block;font-size:16px;padding:10px 0}
+.img-style1 img{display:block;margin-left:30px;margin-bottom:20px}
+.img-style1 p{margin-left:30px}
+.img-style2{}
+.img-style2 .img-style-title2{position:relative;padding-top:12px;margin-top:-10px}
+.img-style2 .img-style-title2 strong{position:absolute;left:0;top:0;background-color:#fff;font-size:16px;padding-right:10px}
+.img-style2 .img-style-title2 .img-style-line{width:100%;height:1px;background-color:#C2C7CD;overflow:hidden}
+.img-style2 .img-style2-holder{padding:35px 0;overflow:hidden}
+.img-style2 img{float:right;margin-left:20px}
+.img-style2 .img-style2-info{overflow:hidden;zoom:1;padding-left:35px}
+.img-style2 .img-style2-info p{line-height:30px;margin-top:-7px}
+.img-style2-spc{border-top:1px solid #C2C7CD;padding-top:25px}
+.img-style2-spc .img-style-title2-s{font-size:16px}
+.img-style2-spc .img-style2-spc-holder{padding-left:30px;padding-top:10px;overflow:hidden}
+.img-style3 .img-style-title3{font-size:16px}
+.img-style3 .img-style-title3 span{font-weight:normal;font-size:14px}
+.img-style3 .img-style3-1{margin-left:30px;border-bottom:1px solid #C2C7CD;padding:20px 0}
+.img-style3 .img-style3-last{border-bottom:none}
+.img-style3 .img-style3-1 img{vertical-align:middle;margin-left:20px}
+.img-style3 .img-style3-2{padding-left:30px;padding-top:10px}
+.img-style3 .img-style3-2 img{display:block;margin:0 auto}
+.img-style3 .img-style3-2 ol{margin-left:20px;line-height:26px}
+.img-style3 .img-style3-3{padding:10px 0 15px 30px}
+.img-style3 .img-style3-3 img{margin:15px 0 0 20px}
+.sec-tip{border:1px solid #F3D0B8;background-color:#FFF6E2;color:#D55500;padding:10px 15px;margin-bottom:10px}
+.img-style4 .img-style-title4{font-size:16px}
+.img-style4 .img-style4-list{overflow:hidden}
+.img-style4 .img-style4-list li{float:left;width:262px;height:265px;overflow:hidden;margin:10px 40px 15px 35px}
+.sec-4-list{margin-left:55px}
+.sec-4-list li{line-height:30px}
+.bottom{border-top:1px solid #ccc;padding-top:15px;padding-bottom:15px}
+.bottom p{color:#737376;font-size:12px}
+#CssGaga{content:"141008143834,liu,326"}
