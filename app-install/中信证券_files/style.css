@@ -1,0 +1,42 @@
+
+@charset "utf-8";
+/* reset */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,p,blockquote,th,td{font-family:"Microsoft YaHei";font-size:12px;color:#333;margin:0;padding:0;}
+table{border-collapse:collapse;border-spacing:0;}
+fieldset,img{border:0;margin:0;padding:0;}
+ol,ul,li,s{list-style:none;list-style-position:outside;text-decoration:none;list-style-type:none;}
+img{border:0;}
+body{color:#070707;}
+a:link,a:visited{color:#333;text-decoration:none;}
+.clear{display:block;height:0;overflow:hidden;clear:both;}
+.fl{float:left;display:inline;}
+.fr{float:right;display:inline;}
+
+
+/* 2014/4/21 ??? */
+body{background-color:#ebebeb;}
+.header{height:40px;text-align:center;position:relative;background-color:#c90915;border-bottom:1px solid #903b40;}
+.header a.logo{display:inline-block;margin-top:5px;}
+
+dl.laji{padding:0px 10px 10px;}
+dl.laji dt{font-weight:bold;font-size:14px;}
+dl.laji dd{margin-bottom:10px;font-size:14px;}
+dl.laji dd img{width:29px;height:14px;vertical-align:middle;}
+
+/* 2014/5/7 ?????? */
+.clearfix{*zoom:1;}
+.clearfix:after{content:'\0020';display:block;height:0;overflow:hidden;clear:both;}
+.bangding{margin:33px 12px;}
+section.zhbd{border:1px solid #d0d0d0;border-radius:0px;background-color:#fff;}
+.diy_table1 tr{line-height:30px;border-right:1px solid #d0d0d0;text-align:center}
+.diy_table1 .tkey{width:30%;text-align:center;font-size:13px;color:#8b8a8a;}
+.txt{font-size:14px;font-family:"Microsoft YaHei";margin-top:13px;}
+
+
+
+
+
+
+
+
+
